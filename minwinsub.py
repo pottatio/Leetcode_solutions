@@ -4,7 +4,7 @@
 # no such substring, return the empty string "".
 
 from itertools import count
-from json.encoder import INFINITY
+
 
 
 class Solution:
